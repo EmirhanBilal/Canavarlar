@@ -1,3 +1,3 @@
 # Canavarlar
 
-canavarlar.netlify.app
+https://canavarlar.netlify.app
